@@ -61,6 +61,4 @@ Try to implement it using finite difference method.
 
 1. Find online what is the numerical definition of Laplacian.
 
-2. Instead of carring out QHED mutiple times, is it possible to modify the algorithm a little bit by adding extra qubits and new 
-
-gates?
+2. Instead of carring out QHED mutiple times, is it possible to modify the algorithm a little bit by adding extra qubits and new gates?

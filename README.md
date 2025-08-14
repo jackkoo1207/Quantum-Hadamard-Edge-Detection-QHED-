@@ -47,9 +47,7 @@ Note that it is $(m,n,3)$ image. How can you modify the previous code to handle 
 
 **Hints**: 
 
-1. Althought the $m,n$ of the given image is still even, what should you do if it is odd? 
-
-    Remember to take this into consideration.
+1. Note that $m\neq n$ and may not be even. What should you do in general?
 
 ### 3. Laplacian Edge
 

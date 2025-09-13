@@ -62,3 +62,12 @@ Try to implement it using finite difference method.
 1. Find online what is the numerical definition of Laplacian.
 
 2. Instead of carring out QHED mutiple times, is it possible to modify the algorithm a little bit by adding extra qubits and new gates?
+
+# Current Progress
+
+## 1. Canva(doing)
+https://www.canva.com/design/DAGy1v6AAlY/vUNlEF5d4MZnTAk3oh0zhQ/edit?utm_content=DAGy1v6AAlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+## 2. Source Code(Found,still changing version)
+## 3. Classical Edge Detection(Done)
+## 4. Find photo(Not done)
+## 5. Finish Task(Not done)
